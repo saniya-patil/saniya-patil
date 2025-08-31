@@ -31,4 +31,8 @@ I’ve delivered production-grade systems with a strong focus on AI/ML, scalable
 ### 📫 Contact Me
 - 📧 Email: [your email]  
 - 💼 LinkedIn: [your LinkedIn]  
-- 🌐 Portfolio: [your website or portfolio]  
+- 🌐 Portfolio: [your website or portfolio]
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
