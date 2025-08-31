@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Saniya! 👋  
 
-<!--
-**saniya-patil/saniya-patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital Craftsman (Software Engineer | AI/ML Enthusiast | Full Stack Developer)**  
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer and [Your Current Role or Degree] with professional experience across [domains you worked in].  
+I’ve delivered production-grade systems with a strong focus on AI/ML, scalable web apps, and cloud engineering.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 About Me
+- 🌱 Learning: [Tech you’re learning now]
+- 💼 Internships/Experience: [Your internships or jobs]
+- 🚀 Building: [Current projects]
+- 🎯 Goal: Open to [type of opportunities you're seeking]
+- 🌍 Location: [City / Country]
+
+---
+
+### 📌 Highlights
+- 🔹 [Project 1: What it does + tech used]
+- 🔹 [Project 2: What it does + tech used]
+- 🔹 [Project 3: What it does + tech used]
+
+---
+
+### 🛠 Tech Stack
+`Python` | `JavaScript` | `React` | `Node.js` | `SQL` | `Docker` | `AWS` | `GCP`  
+
+---
+
+### 📫 Contact Me
+- 📧 Email: [your email]  
+- 💼 LinkedIn: [your LinkedIn]  
+- 🌐 Portfolio: [your website or portfolio]  
