@@ -33,6 +33,6 @@ I’ve delivered production-grade systems with a strong focus on AI/ML, scalable
 - 💼 LinkedIn: [your LinkedIn]  
 - 🌐 Portfolio: [your website or portfolio]
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniya-patil&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-patil&layout=compact&theme=radical)
 
