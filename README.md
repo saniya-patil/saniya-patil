@@ -82,10 +82,10 @@ Passionate about building **intelligent systems** that bridge data, people, and 
 ---
 
 ### 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=rogue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniya-patil&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-patil&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saniya-patil&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saniyapatil&theme=rogue)  
 
 ---
 
