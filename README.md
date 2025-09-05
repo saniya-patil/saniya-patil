@@ -1,6 +1,6 @@
 # Hi, I'm Saniya! 👩‍💻
 
-![Banner](banner.png)
+![Banner](Make your README-2.png)
 
 **MS CS Student @ UC San Diego | Software Engineer | AI/ML Enthusiast | Full Stack Developer**
 
