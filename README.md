@@ -4,7 +4,7 @@
 
 
 ### 🌟 About Me
-Passionate about building **intelligent systems** that bridge data, people, and real-world impact. Experienced in backend fintech systems, traffic optimization with RL, and anomaly detection using cutting-edge Transformer models.  
+Passionate about building **intelligent systems** that bridge data, people, and real-world impact. I have experience developing backend systems, applying machine learning to real-world problems, and working with advanced AI models for data-driven insights.
 
 ---
 
