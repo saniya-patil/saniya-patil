@@ -1,7 +1,5 @@
-# Hi, I'm Saniya! 👩‍💻
-
 ![Banner](banner.png)
-
+# Hi, I'm Saniya! 👩‍💻
 **MS CS Student @ UC San Diego | Software Engineer | AI/ML Enthusiast | Full Stack Developer**
 
 ---
