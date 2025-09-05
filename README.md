@@ -1,38 +1,53 @@
-# Hi there, I'm Saniya! 👋  
+# Hi, I'm Saniya! 👩‍💻
 
-**Digital Craftsman (Software Engineer | AI/ML Enthusiast | Full Stack Developer)**  
-
-I'm a Full Stack Developer and [Your Current Role or Degree] with professional experience across [domains you worked in].  
-I’ve delivered production-grade systems with a strong focus on AI/ML, scalable web apps, and cloud engineering.  
+**MS CS Student @ UC San Diego | Software Engineer | AI/ML Enthusiast | Full Stack Developer**
 
 ---
 
-### 🛠 About Me
-- 🌱 Learning: [Tech you’re learning now]
-- 💼 Internships/Experience: [Your internships or jobs]
-- 🚀 Building: [Current projects]
-- 🎯 Goal: Open to [type of opportunities you're seeking]
-- 🌍 Location: [City / Country]
+### 🌟 About Me
+I’m a passionate **Full Stack Developer** and **MS CS student at UCSD** with hands-on experience in AI/ML, backend systems, and large-scale simulations. I love solving real-world problems by combining data-driven approaches with scalable system design.  
+
+I’ve built systems ranging from **financial transaction APIs** to **reinforcement learning traffic simulators**, and **transformer-based anomaly detection models**. Always eager to learn, collaborate, and innovate! 🚀
 
 ---
 
-### 📌 Highlights
-- 🔹 [Project 1: What it does + tech used]
-- 🔹 [Project 2: What it does + tech used]
-- 🔹 [Project 3: What it does + tech used]
+### 🛠 Skills
+- **Programming:** Python, Java, C, C++, PHP  
+- **Web Development:** JavaScript, Node.js, React.js, Bootstrap, Angular.js, Flutter, HTML5, CSS3  
+- **Databases:** PostgreSQL, MongoDB, MySQL, NoSQL, SQLite  
+- **Tools & Cloud:** REST APIs, AWS, Docker, GCP, CI/CD  
+- **ML/AI:** TensorFlow, PyTorch, HuggingFace, Transformers, Self-Supervised Learning, Neural Networks  
 
 ---
 
-### 🛠 Tech Stack
-`Python` | `JavaScript` | `React` | `Node.js` | `SQL` | `Docker` | `AWS` | `GCP`  
+### 💼 Experience
+**Software Developer Intern — Be The Bank (Jan 2024 – May 2024)**  
+- Designed and deployed a secure backend system integrated with **M-Pesa API**, handling 5,000+ daily transactions at 99.9% uptime.  
+- Built **RESTful APIs** with NestJS + PostgreSQL, cutting API latency by 40% and reducing transaction processing time by 25%.  
+- Led backend deployment and performance optimization, achieving **15% faster transaction speed** with zero downtime.  
 
 ---
 
-### 📫 Contact Me
-- 📧 Email: [your email]  
-- 💼 LinkedIn: [your LinkedIn]  
-- 🌐 Portfolio: [your website or portfolio]
+### 📌 Projects
+🚀 **Self-Supervised Learning for Stock Price Anomaly Detection**  
+- Developed a **Transformer Encoder** to detect anomalies in financial time series with clustering + t-SNE visualization.  
+- Reduced manual anomaly review effort by **40%** and cut detection time by **85%**.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniya-patil&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-patil&layout=compact&theme=radical)
+📡 **Transformer-Based Multi-Sensor Anomaly Detection (WESAD dataset)**  
+- Built a **multi-sensor fusion model** for wearable data, achieving **Precision: 100%, Recall: 99.9%, F1: 99.96%**.  
+- Reduced false positives by **90%** and increased anomaly detection speed by **40%**.  
 
+🚦 **Traffic Simulation using Reinforcement Learning (SUMO + Python)**  
+- Trained **DQN, Double DQN, PPO agents** for traffic signal control.  
+- Improved traffic flow efficiency by **20%**, reduced vehicle wait time by **30%**, and cut travel time by **15%**.  
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: [saniyapatil24@gmail.com](mailto:saniyapatil24@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/saniyapatil2345](https://linkedin.com/in/saniyapatil2345)  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
