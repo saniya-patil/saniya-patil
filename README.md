@@ -2,7 +2,6 @@
 # Hi, I'm Saniya! 👩‍💻
 **MS CS Student @ UC San Diego | Software Engineer | AI/ML Enthusiast | Full Stack Developer**
 
----
 
 ### 🌟 About Me
 Passionate about building **intelligent systems** that bridge data, people, and real-world impact. Experienced in backend fintech systems, traffic optimization with RL, and anomaly detection using cutting-edge Transformer models.  
