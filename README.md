@@ -48,6 +48,11 @@ Passionate about building **intelligent systems** that bridge data, people, and 
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F61?logo=python&logoColor=white)
 ![Self-Supervised Learning](https://img.shields.io/badge/Self--Supervised_Learning-FF69B4?logo=ai&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-00A67E?logo=ai&logoColor=white)
+### 🛠 Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,php,js,nodejs,react,angular,flutter,html,css,postgres,mongodb,mysql,aws,docker,gcp,tensorflow,pytorch&perline=8" />
+</p>
 
 ---
 
