@@ -3,8 +3,19 @@
 **MS CS Student @ UC San Diego | Software Engineer | AI/ML Enthusiast | Full Stack Developer**
 
 
-### 🌟 About Me
-Passionate about building **intelligent systems** that bridge data, people, and real-world impact. I have experience developing backend systems, applying machine learning to real-world problems, and working with advanced AI models for data-driven insights.
+### 🌟 About Me 
+
+I’m a Computer Science graduate student at UC San Diego with a strong interest in **AI/ML, cloud technologies, and full stack development**. I’ve delivered projects and systems spanning fintech, reinforcement learning, and anomaly detection — with a focus on **scalable, data-driven solutions** that connect data, people, and real-world impact.  
+
+- 💼 **Software Developer Intern @ Be The Bank (Jan 2024 – May 2024)**  
+   - Built and deployed secure backend services integrated with **M-Pesa API**, handling 5K+ daily transactions at **99.9% uptime**.  
+   - Engineered RESTful APIs with NestJS + PostgreSQL, reducing latency by **40%** and improving transaction processing speed by **25%**.  
+
+- 🚦 **Traffic Simulation using Reinforcement Learning (SUMO + Python)**  
+   - Designed RL agents (**DQN, Double DQN, PPO**) for intelligent traffic signal control.  
+   - Improved traffic flow efficiency by **20%** and reduced vehicle wait times by **30%**.  
+
+Currently, I’m exploring ways to combine **software engineering and intelligent system design**, and I’m **open to job opportunities** in **Software Engineering** and **AI/ML**.  
 
 ---
 
