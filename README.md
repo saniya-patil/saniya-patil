@@ -82,7 +82,7 @@ I'm a Full Stack Developer and **MS CS student at UC San Diego** with profession
 ### 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniya-patil&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-patil&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saniya-patil&theme=radical)  
+
 
 ---
 
