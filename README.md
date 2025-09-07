@@ -1,5 +1,5 @@
 ![Banner](banner.png)
-
+## Hi! I'm Saniya
 **MS CS Student @ UC San Diego | Software Engineer | AI/ML Enthusiast | Full Stack Developer**
 
 
@@ -65,17 +65,13 @@ I'm a Full Stack Developer and **MS CS student at UC San Diego** with profession
 
 ### 📚 Relevant Coursework
 - Statistical NLP  
-- AI Agents  
+- AI Agents
+- Generative AI
 - Machine Learning  
-- Cloud Computing  
-- Web Development  
+- Algorithm Design and Analysis
+- Seminar in Databases
+- Big Data Science & Knowledge 
 
----
-
-### 🏆 Achievements
-- 🌟 Built 3 AI/ML research-level projects in **less than a year**.  
-- 🥇 Delivered production-ready fintech APIs with **zero downtime**.  
-- 🎓 MSCS @ UCSD (2026 expected).  
 
 ---
 
