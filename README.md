@@ -16,6 +16,14 @@ I'm a Full Stack Developer and **MS CS student at UC San Diego** with profession
 🚀 Open to **Software Engineering and AI/ML job opportunities** starting 2026  
 📫 Reach me at **sapatil@ucsd.edu** | [LinkedIn](https://linkedin.com/in/saniyapatil2345)  
 
+
+---
+
+### 🎯 Fun Facts
+- 🌱 Currently exploring **Generative AI & Agents**  
+- ☕ Runs on caffeine + code  
+- ✈️ Loves traveling & meeting new people
+
 ---
 
 ### 🛠 Tech Stack  
@@ -78,16 +86,3 @@ I'm a Full Stack Developer and **MS CS student at UC San Diego** with profession
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-patil&layout=compact&theme=radical)  
 
 
----
-
-### 📫 Connect with Me
-- 📧 [saniyapatil24@gmail.com](mailto:saniyapatil24@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/saniyapatil2345)  
-- 🌐 Portfolio: [Add your website here]  
-
----
-
-### 🎯 Fun Facts
-- 🌱 Currently exploring **Generative AI & Agents**  
-- ☕ Runs on caffeine + code  
-- ✈️ Loves traveling & meeting new people  
