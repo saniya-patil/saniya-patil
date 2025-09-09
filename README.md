@@ -19,12 +19,6 @@ I'm a Full Stack Developer and **MS CS student at UC San Diego** with profession
 
 ---
 
-### 🎯 Fun Facts
-- 🌱 Currently exploring **Generative AI & Agents**  
-- ☕ Runs on caffeine + code  
-- ✈️ Loves traveling & meeting new people
-
----
 
 ### 🛠 Tech Stack  
 
@@ -76,7 +70,16 @@ I'm a Full Stack Developer and **MS CS student at UC San Diego** with profession
 - Machine Learning  
 - Algorithm Design and Analysis
 - Seminar in Databases
-- Big Data Science & Knowledge 
+- Big Data Science & Knowledge
+  
+---
+
+### 🎯 Fun Facts
+- 🌱 Currently exploring **Generative AI & Agents**  
+- ☕ Runs on caffeine + code  
+- ✈️ Loves traveling & meeting new people
+
+---
 
 
 
