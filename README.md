@@ -7,13 +7,13 @@
 
 I'm a Full Stack Developer and **MS CS student at UC San Diego** with professional experience in **backend fintech systems** and hands-on projects across **AI/ML, reinforcement learning, and anomaly detection**. I’ve delivered systems and research prototypes that focus on **scalability, data-driven design, and intelligent automation**.  
 
-💼 Interned at **Be The Bank** as a Software Developer, building secure APIs with NestJS & PostgreSQL to process daily transactions at 99.89% uptime  
-🧠 Built **self-supervised Transformer models** for anomaly detection in stock prices, reducing manual review effort and identifying 300+ anomaly patterns  
-🚦 Designed **reinforcement learning agents** in SUMO for dynamic traffic signal control, reducing wait times by 30% and improving flow efficiency by 20%  
-📡 Created a **multi-sensor anomaly detection system** using Transformers on wearable data, achieving near-perfect performance  
-☁️ Skilled with **AWS, Docker, GCP, REST APIs, and CI/CD pipelines** for deploying production-grade systems  
-🌱 Currently exploring **MLOps and applied generative AI** to extend my research and engineering projects  
-🚀 Open to **Software Engineering and AI/ML job opportunities** starting 2026  
+💻 Software Developer Intern @ Be The Bank – Built secure APIs with NestJS & PostgreSQL, enabling 5K+ daily transactions at 99.9% uptime
+📈 Developed self-supervised Transformer models for stock price anomaly detection, uncovering 300+ hidden patterns and reducing manual review time
+🚦 Implemented reinforcement learning agents in SUMO for adaptive traffic control, cutting vehicle wait times by 30% and boosting flow efficiency by 20%
+⌚ Engineered a multi-sensor anomaly detection system on wearable data with Transformers, achieving near-perfect accuracy (F1: 99.9%)
+☁️ Hands-on with AWS, Docker, GCP, REST APIs, and CI/CD pipelines for scalable deployments
+🔬 Currently exploring MLOps and generative AI to bridge research with production-ready systems
+🚀 Actively seeking Software Engineering and AI/ML opportunities starting 2026
 📫 Reach me at **sapatil@ucsd.edu** | [LinkedIn](https://linkedin.com/in/saniyapatil2345)  
 
 
