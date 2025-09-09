@@ -79,10 +79,5 @@ I'm a Full Stack Developer and **MS CS student at UC San Diego** with profession
 - Big Data Science & Knowledge 
 
 
----
-
-### 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saniya-patil&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saniya-patil&layout=compact&theme=radical)  
 
 
