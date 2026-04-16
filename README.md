@@ -1,20 +1,20 @@
 ![Banner](banner.png)
 ## Hi! I'm Saniya
-**MS CS Student @ UC San Diego | Software Engineer | AI/ML Enthusiast | Full Stack Developer**
+**MS CS Student @ UC San Diego | Backend & Distributed Systems Engineer | Building Scalable, Fault-Tolerant Systems**
 
 
 ### 🌟 About Me 
 
-I'm a Full Stack Developer and **MS CS student at UC San Diego** with professional experience in **backend fintech systems** and hands-on projects across **AI/ML, reinforcement learning, and anomaly detection**. I’ve delivered systems and research prototypes that focus on **scalability, data-driven design, and intelligent automation**.  
+I'm a **Backend and Distributed Systems Engineer** and MS CS student at UC San Diego with experience building large-scale distributed systems, real-time data pipelines, and backend infrastructure. I focus on **scalability, fault tolerance, and high-performance system design**.
 
-- 💻 **Software Developer Intern @ Be The Bank** – Built secure APIs with NestJS & PostgreSQL, enabling daily transactions at 99.79% uptime.
-- 📈 Developed **self-supervised Transformer models** for stock price anomaly detection, uncovering 300+ hidden patterns and reducing manual review time.
-- 🚦 Implemented **reinforcement learning agents in SUMO** for adaptive traffic control, cutting vehicle wait times by 30% and boosting flow efficiency by 20%.
-- ⌚ Engineered a multi-sensor anomaly detection system on wearable data with Transformers, achieving near-perfect accuracy.
-- ☁️ Hands-on with **AWS, Docker, GCP, REST APIs, and CI/CD** pipelines for scalable deployments.
-- 🔬 Currently exploring **MLOps and generative AI** to bridge research with production-ready systems.
-- 🚀 Actively seeking Software Engineering and AI/ML opportunities starting 2026.
-- 📫 Reach me at **sapatil@ucsd.edu** | [LinkedIn](https://linkedin.com/in/saniyapatil2345)  
+- 🔧 **Built a distributed video storage & streaming platform** using Go and gRPC with consistent hashing across 5+ storage nodes
+- 📊 **Engineered a real-time trade analytics pipeline** using Kafka, Spark Structured Streaming, and Delta Lake — sustaining 5,000+ events/sec
+- 🎵 **Developed a full-stack music retrieval platform** with a Go backend achieving sub-100ms query latency across 1,000+ tracks
+- 💳 **Software Developer Intern @ Be The Bank** — Built a distributed payment processing system handling 10K+ daily transactions at 99.9% uptime
+- ☁️ Hands-on with **Go, Python, AWS, Docker, gRPC, Kafka, PostgreSQL, and CI/CD**
+- 🔬 Currently exploring **distributed systems design and backend infrastructure at scale**
+- 🚀 Actively seeking **Software Engineering opportunities starting 2026**
+- 📫 Reach me at **sapatil@ucsd.edu** | [LinkedIn](https://linkedin.com/in/saniyapatil2345)
 
 
 ---
